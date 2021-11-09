@@ -1,0 +1,1 @@
+ALTER TABLE `users` ADD `lever` INT(1) NULL COMMENT '1: quandiem' AFTER `updated_at`;

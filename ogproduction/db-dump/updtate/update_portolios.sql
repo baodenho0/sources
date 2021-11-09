@@ -1,0 +1,1 @@
+ALTER TABLE `portfolios` ADD `type` INT(10) NOT NULL AFTER `video_path`;

@@ -1,0 +1,19 @@
+/*
+ Theme Name:   Financity Child
+ Theme URI:    http://demo.goodlayers.com/financity
+ Description:  Goodlayers Financity Child Theme
+ Author:       Goodlayers
+ Author URI:   http://goodlayers.com
+ Template:     financity
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, right-sidebar, responsive-layout
+ Text Domain:  financity-child
+
+ START YOUR CHILD THEME CSS HERE
+*/
+
+.financity-header-background {
+    background: url(../../../images/top-panel-BG.png);
+}

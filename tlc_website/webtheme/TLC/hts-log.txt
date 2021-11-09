@@ -1,0 +1,138 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 22 Jul 2020 23:54:36 at https://www.tlcglobal.asia/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.tlcglobal.asia/ -O1 "C:\xampp\htdocs\tlc\TLC" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:54:52	Error: 	"Method Not Allowed" (405) at link https://www.tlcglobal.asia/xmlrpc.php (from https://www.tlcglobal.asia/)
+23:56:09	Error: 	"Not Found" (404) at link https://www.tlcglobal.asia/wp-content/plugins/goodlayers-core/plugins/combine/arrow-prev-icon-64.png (from https://www.tlcglobal.asia/wp-content/plugins/goodlayers-core/plugins/combine/style.css?ver=f2b1e268e564fe2e400279fb0423946b)
+23:56:09	Warning: 	Moved Permanently for https://www.tlcglobal.asia/?p=5693
+23:56:09	Warning: 	File has moved from https://www.tlcglobal.asia/?p=5693 to https://www.tlcglobal.asia/aboutus/
+23:56:09	Warning: 	Moved Permanently for https://www.tlcglobal.asia/?p=5734
+23:56:09	Warning: 	File has moved from https://www.tlcglobal.asia/?p=5734 to https://www.tlcglobal.asia/profitplan/
+23:56:09	Warning: 	Moved Permanently for https://www.tlcglobal.asia/?p=6013
+23:56:09	Warning: 	File has moved from https://www.tlcglobal.asia/?p=6013 to https://www.tlcglobal.asia/partnership/
+23:56:09	Warning: 	Moved Permanently for https://www.tlcglobal.asia/?p=5721
+23:56:09	Warning: 	File has moved from https://www.tlcglobal.asia/?p=5721 to https://www.tlcglobal.asia/forextrade/
+23:56:16	Warning: 	Moved Permanently for https://www.tlcglobal.asia/?p=2689
+23:56:16	Warning: 	File has moved from https://www.tlcglobal.asia/?p=2689 to https://www.tlcglobal.asia/newsandevents/
+23:56:42	Warning: 	Moved Permanently for https://www.tlcglobal.asia/?p=5741
+23:56:42	Warning: 	File has moved from https://www.tlcglobal.asia/?p=5741 to https://www.tlcglobal.asia/contactus/
+23:56:44	Warning: 	Link https://www.tlcglobal.asia/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+23:56:45	Error: 	"Method Not Allowed" (405) at link https://www.tlcglobal.asia/cn/xmlrpc.php (from https://www.tlcglobal.asia/cn/)
+23:57:53	Warning: 	Moved Permanently for https://www.tlcglobal.asia/?p=6586
+23:57:53	Warning: 	File has moved from https://www.tlcglobal.asia/?p=6586 to https://www.tlcglobal.asia/disclaimer/
+23:57:54	Warning: 	Moved Permanently for https://www.tlcglobal.asia/?p=5747
+23:57:54	Warning: 	File has moved from https://www.tlcglobal.asia/?p=5747 to https://www.tlcglobal.asia/whatispip/
+23:57:54	Warning: 	Moved Permanently for https://www.tlcglobal.asia/?p=5768
+23:57:54	Warning: 	File has moved from https://www.tlcglobal.asia/?p=5768 to https://www.tlcglobal.asia/abcd-form/
+23:57:54	Warning: 	Moved Permanently for https://www.tlcglobal.asia/?p=5774
+23:57:54	Warning: 	File has moved from https://www.tlcglobal.asia/?p=5774 to https://www.tlcglobal.asia/loss-profit/
+23:57:54	Warning: 	Moved Permanently for https://www.tlcglobal.asia/?p=5779
+23:57:54	Warning: 	File has moved from https://www.tlcglobal.asia/?p=5779 to https://www.tlcglobal.asia/5-reason-affected/
+23:57:54	Warning: 	Moved Permanently for https://www.tlcglobal.asia/?p=5786
+23:57:54	Warning: 	File has moved from https://www.tlcglobal.asia/?p=5786 to https://www.tlcglobal.asia/fluidity-volatility/
+23:57:54	Warning: 	Moved Permanently for https://www.tlcglobal.asia/?p=5792
+23:57:54	Warning: 	File has moved from https://www.tlcglobal.asia/?p=5792 to https://www.tlcglobal.asia/margin-leverage/
+23:57:54	Warning: 	Moved Permanently for https://www.tlcglobal.asia/?p=5795
+23:57:54	Warning: 	File has moved from https://www.tlcglobal.asia/?p=5795 to https://www.tlcglobal.asia/trade-currency/
+23:57:54	Warning: 	Moved Permanently for https://www.tlcglobal.asia/?p=5799
+23:57:54	Warning: 	File has moved from https://www.tlcglobal.asia/?p=5799 to https://www.tlcglobal.asia/trade-time/
+23:57:54	Warning: 	Moved Permanently for https://www.tlcglobal.asia/?p=6907
+23:57:54	Warning: 	File has moved from https://www.tlcglobal.asia/?p=6907 to https://www.tlcglobal.asia/2020/06/26/uncertain-path-for-recovery-of-us-economy/
+23:58:07	Error: 	"Error when decompressing" (-1) at link https://www.tlcglobal.asia/2020/04/30/tlc-·-ava-live-streams-on-zoom-unveils-2020-strategic-alliance-plan/ (from https://www.tlcglobal.asia/author/ericoye/)
+23:58:19	Warning: 	Moved Permanently for https://www.tlcglobal.asia/?p=6900
+23:58:19	Warning: 	File has moved from https://www.tlcglobal.asia/?p=6900 to https://www.tlcglobal.asia/2020/06/18/6900/
+23:58:19	Warning: 	Moved Permanently for https://www.tlcglobal.asia/?p=6893
+23:58:19	Warning: 	File has moved from https://www.tlcglobal.asia/?p=6893 to https://www.tlcglobal.asia/2020/06/13/ava-tlc-sign-ma-online-kickstarting-more-global-investments/
+23:58:19	Warning: 	Moved Permanently for https://www.tlcglobal.asia/?p=6885
+23:58:19	Warning: 	File has moved from https://www.tlcglobal.asia/?p=6885 to https://www.tlcglobal.asia/2020/06/03/tlc-x-limestone-fx-first-collaberation-achieved-remarkable-result/
+23:58:19	Warning: 	Moved Permanently for https://www.tlcglobal.asia/?p=6873
+23:58:19	Warning: 	File has moved from https://www.tlcglobal.asia/?p=6873 to https://www.tlcglobal.asia/2020/05/15/gwf-gw-profit-2-fund-generates-good-returns-in-safe-haven-markets/
+23:58:19	Warning: 	Moved Permanently for https://www.tlcglobal.asia/newsandevents/page/1/
+23:58:19	Warning: 	File has moved from https://www.tlcglobal.asia/newsandevents/page/1/ to https://www.tlcglobal.asia/newsandevents/
+23:58:31	Error: 	"Error when decompressing" (-1) at link https://www.tlcglobal.asia/2019/10/06/warning-alert-⚠/ (from https://www.tlcglobal.asia/newsandevents/page/5/)
+23:58:31	Error: 	"Error when decompressing" (-1) at link https://www.tlcglobal.asia/2019/10/06/tlc-携手-ibh-力闯-wikiexpo-进军国际市场/ (from https://www.tlcglobal.asia/newsandevents/page/5/)
+23:58:57	Error: 	Exit requested by shell or user
+23:59:03	Error: 	"Not Found" (404) at link https://www.tlcglobal.asia/cn/wp-content/plugins/goodlayers-core/plugins/combine/arrow-prev-icon-64.png (from https://www.tlcglobal.asia/cn/wp-content/plugins/goodlayers-core/plugins/combine/style.css?ver=8a9cf601b04068af3107fddd73430bf9)
+23:59:03	Warning: 	Moved Permanently for https://www.tlcglobal.asia/cn/?p=5693
+23:59:03	Warning: 	File has moved from https://www.tlcglobal.asia/cn/?p=5693 to https://www.tlcglobal.asia/cn/aboutus/
+23:59:03	Warning: 	Moved Permanently for https://www.tlcglobal.asia/cn/?p=5734
+23:59:03	Warning: 	File has moved from https://www.tlcglobal.asia/cn/?p=5734 to https://www.tlcglobal.asia/cn/profitplan/
+23:59:03	Warning: 	Moved Permanently for https://www.tlcglobal.asia/cn/?p=6013
+23:59:03	Warning: 	File has moved from https://www.tlcglobal.asia/cn/?p=6013 to https://www.tlcglobal.asia/cn/partnership/
+23:59:03	Warning: 	Moved Permanently for https://www.tlcglobal.asia/cn/?p=5721
+23:59:03	Warning: 	File has moved from https://www.tlcglobal.asia/cn/?p=5721 to https://www.tlcglobal.asia/cn/forextrade/
+23:59:03	Warning: 	File not added due to mirror cancel: www.tlcglobal.asia/robots.txt
+23:59:03	Warning: 	Moved Permanently for www.tlcglobal.asia/cn/trade-currency/
+23:59:03	Warning: 	Redirected link is identical because of 'URL Hack' option: www.tlcglobal.asia/cn/trade-currency/ and https://www.tlcglobal.asia/cn/trade-currency/
+23:59:03	Warning: 	File has moved from www.tlcglobal.asia/cn/trade-currency/ to https://www.tlcglobal.asia/cn/trade-currency/
+23:59:03	Warning: 	Moved Permanently for https://www.tlcglobal.asia/cn/?p=2715
+23:59:03	Warning: 	File has moved from https://www.tlcglobal.asia/cn/?p=2715 to https://www.tlcglobal.asia/cn/newsandfeeds/
+23:59:03	Error: 	"Error when decompressing" (-1) at link https://www.tlcglobal.asia/cn/2020/06/26/走出冠病阴霾-跳上经济重启的快车/ (from https://www.tlcglobal.asia/cn/newsandfeeds/)
+23:59:03	Error: 	"Error when decompressing" (-1) at link https://www.tlcglobal.asia/cn/2020/06/18/裁员和破产风暴下的金融独角兽，还有哪些？/ (from https://www.tlcglobal.asia/cn/newsandfeeds/)
+23:59:03	Error: 	"Error when decompressing" (-1) at link https://www.tlcglobal.asia/cn/2020/06/13/ava与tlc线上完成并购签署-启动更多环球投资/ (from https://www.tlcglobal.asia/cn/newsandfeeds/)
+23:59:03	Error: 	"Error when decompressing" (-1) at link https://www.tlcglobal.asia/cn/2020/06/03/tlc-与-limestone-fx-首度合作，勇创佳绩/ (from https://www.tlcglobal.asia/cn/newsandfeeds/)
+23:59:03	Error: 	"Error when decompressing" (-1) at link https://www.tlcglobal.asia/cn/2020/05/15/gwf-gw-利润-2-基金在避险市场产生良好回报/ (from https://www.tlcglobal.asia/cn/newsandfeeds/)
+23:59:04	Warning: 	Moved Permanently for https://www.tlcglobal.asia/cn/?p=5741
+23:59:04	Warning: 	File has moved from https://www.tlcglobal.asia/cn/?p=5741 to https://www.tlcglobal.asia/cn/contactus/
+23:59:04	Warning: 	Moved Permanently for https://www.tlcglobal.asia/cn/?p=5616
+23:59:04	Warning: 	File has moved from https://www.tlcglobal.asia/cn/?p=5616 to https://www.tlcglobal.asia/cn/disclaimer/
+23:59:04	Warning: 	Moved Permanently for https://www.tlcglobal.asia/?p=5480
+23:59:04	Warning: 	File has moved from https://www.tlcglobal.asia/?p=5480 to https://www.tlcglobal.asia/portfolio/startup-funding/
+23:59:04	Warning: 	Moved Permanently for https://www.tlcglobal.asia/?p=5479
+23:59:04	Warning: 	File has moved from https://www.tlcglobal.asia/?p=5479 to https://www.tlcglobal.asia/portfolio/family-asset-management/
+23:59:04	Warning: 	Moved Permanently for https://www.tlcglobal.asia/?p=5477
+23:59:04	Warning: 	File has moved from https://www.tlcglobal.asia/?p=5477 to https://www.tlcglobal.asia/portfolio/accounting-advisory/
+23:59:04	Warning: 	Moved Permanently for https://www.tlcglobal.asia/?p=5475
+23:59:04	Warning: 	File has moved from https://www.tlcglobal.asia/?p=5475 to https://www.tlcglobal.asia/portfolio/merger-acquisition/
+23:59:04	Warning: 	Moved Permanently for https://www.tlcglobal.asia/?p=5472
+23:59:04	Warning: 	File has moved from https://www.tlcglobal.asia/?p=5472 to https://www.tlcglobal.asia/portfolio/business-matching/
+23:59:04	Warning: 	Moved Permanently for https://www.tlcglobal.asia/?p=5469
+23:59:04	Warning: 	File has moved from https://www.tlcglobal.asia/?p=5469 to https://www.tlcglobal.asia/portfolio/bitcoin-farming-advisory/
+23:59:04	Warning: 	Moved Permanently for https://www.tlcglobal.asia/?p=5322
+23:59:04	Warning: 	File has moved from https://www.tlcglobal.asia/?p=5322 to https://www.tlcglobal.asia/portfolio/stock-custodian-service/
+23:59:04	Warning: 	Moved Permanently for https://www.tlcglobal.asia/?p=5318
+23:59:04	Warning: 	File has moved from https://www.tlcglobal.asia/?p=5318 to https://www.tlcglobal.asia/portfolio/business-strategy/
+23:59:04	Warning: 	Moved Permanently for https://www.tlcglobal.asia/?p=5300
+23:59:04	Warning: 	File has moved from https://www.tlcglobal.asia/?p=5300 to https://www.tlcglobal.asia/portfolio/market-research/
+23:59:04	Warning: 	Moved Permanently for https://www.tlcglobal.asia/?p=6867
+23:59:04	Warning: 	File has moved from https://www.tlcglobal.asia/?p=6867 to https://www.tlcglobal.asia/2020/05/15/generating-secondary-sources-of-income-beyond-the-pandemic/
+23:59:04	Warning: 	Moved Permanently for https://www.tlcglobal.asia/?p=6864
+23:59:04	Warning: 	File has moved from https://www.tlcglobal.asia/?p=6864 to https://www.tlcglobal.asia/2020/05/14/tlc-changes-strategy-and-supports-society/
+23:59:04	Warning: 	Moved Permanently for https://www.tlcglobal.asia/?p=6838
+23:59:04	Warning: 	File has moved from https://www.tlcglobal.asia/?p=6838 to https://www.tlcglobal.asia/2020/04/21/global-wealth-fund-gwf-grand-launch/
+23:59:04	Warning: 	Moved Permanently for https://www.tlcglobal.asia/?p=6828
+23:59:04	Warning: 	File has moved from https://www.tlcglobal.asia/?p=6828 to https://www.tlcglobal.asia/2020/04/17/our-strategic-partnership-with-aplex-va-launch-of-our-fund/
+23:59:04	Warning: 	Moved Permanently for https://www.tlcglobal.asia/author/ericoye/page/1/
+23:59:04	Warning: 	File has moved from https://www.tlcglobal.asia/author/ericoye/page/1/ to https://www.tlcglobal.asia/author/ericoye/
+23:59:04	Warning: 	Moved Permanently for https://www.tlcglobal.asia/category/uncategorized/page/1/
+23:59:04	Warning: 	File has moved from https://www.tlcglobal.asia/category/uncategorized/page/1/ to https://www.tlcglobal.asia/category/uncategorized/
+23:59:04	Warning: 	Moved Permanently for https://www.tlcglobal.asia/?p=6816
+23:59:04	Warning: 	File has moved from https://www.tlcglobal.asia/?p=6816 to https://www.tlcglobal.asia/2020/04/13/investing-for-retirement-in-a-recession/
+23:59:04	Warning: 	Moved Permanently for https://www.tlcglobal.asia/?p=6810
+23:59:04	Warning: 	File has moved from https://www.tlcglobal.asia/?p=6810 to https://www.tlcglobal.asia/2020/04/06/opportunities-in-the-eye-of-a-great-depression/
+23:59:04	Warning: 	Moved Permanently for https://www.tlcglobal.asia/?p=6802
+23:59:04	Warning: 	File has moved from https://www.tlcglobal.asia/?p=6802 to https://www.tlcglobal.asia/2020/04/02/quantitative-easing-induced-inflation-presents-trading-opportunities/
+23:59:04	Warning: 	Moved Permanently for https://www.tlcglobal.asia/?p=6796
+23:59:04	Warning: 	File has moved from https://www.tlcglobal.asia/?p=6796 to https://www.tlcglobal.asia/2020/03/30/guarding-against-unemployment-with-passive-income/
+23:59:04	Warning: 	Moved Permanently for https://www.tlcglobal.asia/?p=6790
+23:59:04	Warning: 	File has moved from https://www.tlcglobal.asia/?p=6790 to https://www.tlcglobal.asia/2020/03/21/silver-lining-forex-edging-economic-turmoil/
+23:59:04	Warning: 	Moved Permanently for https://www.tlcglobal.asia/?p=6670
+23:59:04	Warning: 	File has moved from https://www.tlcglobal.asia/?p=6670 to https://www.tlcglobal.asia/2019/10/21/big-thanks-to-media-for-excellent-coverage-on-vietnam-gala-dinner/
+23:59:04	Warning: 	File not added due to mirror cancel: https://pinterest.com/robots.txt
+23:59:04	Warning: 	Permanent Redirect for https://pinterest.com/pin/create/button/?url=https://www.tlcglobal.asia/2019/10/21/big-thanks-to-media-for-excellent-coverage-on-vietnam-gala-dinner/&media=https://www.tlcglobal.asia/wp-content/uploads/2019/10/vi19-1.png
+23:59:04	Warning: 	Redirected link is identical because of 'URL Hack' option: https://pinterest.com/pin/create/button/?url=https://www.tlcglobal.asia/2019/10/21/big-thanks-to-media-for-excellent-coverage-on-vietnam-gala-dinner/&media=https://www.tlcglobal.asia/wp-content/uploads/2019/10/vi19-1.png and https://www.pinterest.com/pin/create/button/?url=https://www.tlcglobal.asia/2019/10/21/big-thanks-to-media-for-excellent-coverage-on-vietnam-gala-dinner/&media=https://www.tlcglobal.asia/wp-content/uploads/2019/10/vi19-1.png
+23:59:04	Warning: 	File has moved from https://pinterest.com/pin/create/button/?url=https://www.tlcglobal.asia/2019/10/21/big-thanks-to-media-for-excellent-coverage-on-vietnam-gala-dinner/&media=https://www.tlcglobal.asia/wp-content/uploads/2019/10/vi19-1.png to https://www.pinterest.com/pin/create/button/?url=https://www.tlcglobal.asia/2019/10/21/big-thanks-to-media-for-excellent-coverage-on-vietnam-gala-dinner/&media=https://www.tlcglobal.asia/wp-content/uploads/2019/10/vi19-1.png
+23:59:04	Warning: 	Moved Permanently for https://www.tlcglobal.asia/?p=6550
+23:59:04	Warning: 	File has moved from https://www.tlcglobal.asia/?p=6550 to https://www.tlcglobal.asia/2019/06/20/awesome-treats-for-june-have-landed/
+23:59:04	Warning: 	Permanent Redirect for https://pinterest.com/pin/create/button/?url=https://www.tlcglobal.asia/2019/06/20/awesome-treats-for-june-have-landed/&media=https://www.tlcglobal.asia/wp-content/uploads/2019/06/june.jpeg
+23:59:04	Warning: 	Redirected link is identical because of 'URL Hack' option: https://pinterest.com/pin/create/button/?url=https://www.tlcglobal.asia/2019/06/20/awesome-treats-for-june-have-landed/&media=https://www.tlcglobal.asia/wp-content/uploads/2019/06/june.jpeg and https://www.pinterest.com/pin/create/button/?url=https://www.tlcglobal.asia/2019/06/20/awesome-treats-for-june-have-landed/&media=https://www.tlcglobal.asia/wp-content/uploads/2019/06/june.jpeg
+23:59:04	Warning: 	File has moved from https://pinterest.com/pin/create/button/?url=https://www.tlcglobal.asia/2019/06/20/awesome-treats-for-june-have-landed/&media=https://www.tlcglobal.asia/wp-content/uploads/2019/06/june.jpeg to https://www.pinterest.com/pin/create/button/?url=https://www.tlcglobal.asia/2019/06/20/awesome-treats-for-june-have-landed/&media=https://www.tlcglobal.asia/wp-content/uploads/2019/06/june.jpeg
+23:59:04	Warning: 	Moved Permanently for https://www.tlcglobal.asia/?p=1680
+23:59:04	Warning: 	File has moved from https://www.tlcglobal.asia/?p=1680 to https://www.tlcglobal.asia/2019/06/02/roaring-success-for-tlc-x-ibh-global-launch/
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 57 seconds : 733 links scanned, 664 files written (293108971 bytes overall) [286702665 bytes received at 965328 bytes/sec], 9738464 bytes transferred using HTTP compression in 292 files, ratio 28%, 28.2 requests per connection
+(13 errors, 114 warnings, 0 messages)

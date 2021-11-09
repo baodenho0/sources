@@ -1,0 +1,1 @@
+ALTER TABLE `contact` ADD `introduce` VARCHAR(300) NULL AFTER `image_path`;

@@ -1,0 +1,1 @@
+ALTER TABLE `post` ADD `short_description` TEXT NULL AFTER `description`;

@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.tlcglobal.asia	TRUE	/	FALSE	1999999999	__cfduid	d2557039f3726e13fc3feb9fa4abeac131595436877
+www.tlcglobal.asia	TRUE	/	FALSE	1999999999	SameSite	Lax
+
